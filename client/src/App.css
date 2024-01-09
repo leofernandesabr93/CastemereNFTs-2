@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background: linear-gradient(to bottom, black, red); /* Fundo em degradê */
+}
+
+.App-nav {
+  background-color: carmesin; /* Barra de navegação em carmesim */
+  padding: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.App-link {
+  color: white;
+}
